@@ -1,0 +1,235 @@
+{
+  "version": 2,
+  "perfiles": [
+    {
+      "id": "f0c008493de514fe23c4",
+      "tipo_camara": "LATERAL",
+      "nombre_origen": "30_LATERAL.AVI",
+      "firma_video": "64af6ad39802397509dff1aa195ac7443b0347959c6e00f919d7e501889a20ec",
+      "bbox_norm": [
+        0.241346,
+        0.452981,
+        0.385577,
+        0.527047
+      ],
+      "frame_confirmado": 12,
+      "referencia": ".aprendizaje/video_airbag_referencias/f0c008493de514fe23c4.jpg",
+      "ancho_origen": 960,
+      "alto_origen": 772,
+      "usuario": "dashboard",
+      "actualizado_en": "2026-10-05T16:57:13"
+    },
+    {
+      "id": "12ed9ad5c2a8e001a799",
+      "tipo_camara": "SCHEIBE",
+      "nombre_origen": "081_SCHEIBE.AVI",
+      "firma_video": "f7409958654ff7e78517fca31f956b08442080d75b1f24ce0c6d8e4403797432",
+      "bbox_norm": [
+        0.124038,
+        0.467764,
+        0.870192,
+        0.713854
+      ],
+      "frame_confirmado": 10,
+      "referencia": ".aprendizaje/video_airbag_referencias/12ed9ad5c2a8e001a799.jpg",
+      "ancho_origen": 960,
+      "alto_origen": 772,
+      "usuario": "dashboard",
+      "actualizado_en": "2026-10-06T09:01:54"
+    },
+    {
+      "id": "4a9b51ae2869d2aa2c7e",
+      "tipo_camara": "DETAIL",
+      "nombre_origen": "090_DETAIL.AVI",
+      "firma_video": "061a5555253a17e8768d7da4f7f684d7025af252c01ead11a27911c99091bd5e",
+      "bbox_norm": [
+        0.129808,
+        0.320603,
+        0.995192,
+        0.628812
+      ],
+      "frame_confirmado": 11,
+      "referencia": ".aprendizaje/video_airbag_referencias/4a9b51ae2869d2aa2c7e.jpg",
+      "ancho_origen": 960,
+      "alto_origen": 772,
+      "usuario": "dashboard",
+      "actualizado_en": "2026-10-06T13:28:50"
+    },
+    {
+      "id": "ca83b97033bcdae31cd5",
+      "tipo_camara": "DETAIL",
+      "nombre_origen": "50_DETAIL.AVI",
+      "firma_video": "c1-740955a93ac00acafdc45f758159f18987243908071cc73c84fd4cbd4e3dbd64",
+      "firma_legacy": "a162414a59e3b0d9b8d34b5964563bcb824b3f122d32ed2cf9a53be260e18ea5",
+      "ruta_video": "C:\\Programas Base\\Resumen-1-Step\\1st - copia\\HT\\232550 RDW NOM HT\\VIDEOS\\50_DETAIL.AVI",
+      "tamano": 4519424,
+      "bbox_norm": [
+        0.266346,
+        0.390255,
+        0.974038,
+        0.758538
+      ],
+      "frame_confirmado": 11,
+      "referencia": ".aprendizaje/video_airbag_referencias/ca83b97033bcdae31cd5.jpg",
+      "ancho_origen": 960,
+      "alto_origen": 772,
+      "usuario": "dashboard",
+      "actualizado_en": "2026-10-07T11:49:39"
+    },
+    {
+      "id": "99e615544bdb078db5ff",
+      "tipo_camara": "FRONTAL",
+      "nombre_origen": "50_FRONTAL.AVI",
+      "firma_video": "c1-8aa7abaa9879f7b35a5239e34401dd208b9b90fb3cdeef66e022f486ea922749",
+      "firma_legacy": "fd0a57c6c443810ffaba6e07723aa1c33f82622c8d74efa1229389c17e2d8c3b",
+      "ruta_video": "C:\\Programas Base\\Resumen-1-Step\\1st - copia\\HT\\232550 RDW NOM HT\\VIDEOS\\50_FRONTAL.AVI",
+      "tamano": 5142528,
+      "bbox_norm": [
+        0.439423,
+        0.405799,
+        0.633654,
+        0.4895
+      ],
+      "frame_confirmado": 14,
+      "referencia": ".aprendizaje/video_airbag_referencias/99e615544bdb078db5ff.jpg",
+      "ancho_origen": 960,
+      "alto_origen": 772,
+      "usuario": "dashboard",
+      "actualizado_en": "2026-10-07T11:50:29"
+    },
+    {
+      "id": "b5774d86cbffea9fe2cc",
+      "tipo_camara": "SCHEIBE",
+      "nombre_origen": "50_SCHEIBE.AVI",
+      "firma_video": "c1-f95d9d0fd809b72e960f944ddac7e5b19d510ea8f4a07f431a4661c9ea962388",
+      "firma_legacy": "de2a52c162f24bd5c291251f72443269411183f05181cce0f3854516958f436f",
+      "ruta_video": "C:\\Programas Base\\Resumen-1-Step\\1st - copia\\HT\\232550 RDW NOM HT\\VIDEOS\\50_SCHEIBE.AVI",
+      "tamano": 4540928,
+      "bbox_norm": [
+        0.143269,
+        0.465586,
+        0.891346,
+        0.795606
+      ],
+      "frame_confirmado": 11,
+      "referencia": ".aprendizaje/video_airbag_referencias/b5774d86cbffea9fe2cc.jpg",
+      "ancho_origen": 960,
+      "alto_origen": 772,
+      "usuario": "dashboard",
+      "actualizado_en": "2026-10-07T11:51:43"
+    },
+    {
+      "id": "72d5ae2c747767b6721b",
+      "tipo_camara": "DETAIL",
+      "nombre_origen": "66_DETAIL.AVI",
+      "firma_video": "c1-70d3503d033dabe6b489424f5a0a39f3d21e80a36c3444121d8dcf4914b7b6bc",
+      "firma_legacy": "636cd29724e99644753cf4498dfc8fa50405801466cd099bdf59fae24faf2d48",
+      "ruta_video": "C:\\Programas Base\\Resumen-1-Step\\1st - copia\\HT\\232566 RDW UGL HT\\VIDEOS\\66_DETAIL.AVI",
+      "tamano": 4498944,
+      "bbox_norm": [
+        0.106731,
+        0.36634,
+        0.968269,
+        0.830282
+      ],
+      "frame_confirmado": 11,
+      "referencia": ".aprendizaje/video_airbag_referencias/72d5ae2c747767b6721b.jpg",
+      "ancho_origen": 960,
+      "alto_origen": 772,
+      "usuario": "dashboard",
+      "actualizado_en": "2026-10-07T12:00:03"
+    },
+    {
+      "id": "338390220823ff5141d9",
+      "tipo_camara": "DETAIL",
+      "nombre_origen": "04_DETAIL.AVI",
+      "firma_video": "c1-a3c65e58d83c9de7764a04ac0cba6148ef1790fcd6e12eb3e31eac0c58aa9a08",
+      "firma_legacy": "b74e649cef6704e8a6dcee95a9fd0523c3e13e1f1ec77a773dd2c526e1b4f188",
+      "ruta_video": "C:\\Programas Base\\Resumen-1-Step\\1st - copia\\NT\\222504 RDW NOM NT\\VIDEOS\\04_DETAIL.AVI",
+      "tamano": 4743680,
+      "bbox_norm": [
+        0.090438,
+        0.352871,
+        0.894787,
+        0.729608
+      ],
+      "frame_confirmado": 10,
+      "referencia": ".aprendizaje/video_airbag_referencias/338390220823ff5141d9.jpg",
+      "ancho_origen": 960,
+      "alto_origen": 772,
+      "usuario": "dashboard",
+      "actualizado_en": "2026-10-12T08:10:38"
+    },
+    {
+      "id": "3dde46a365e397ba206f",
+      "tipo_camara": "DETAIL",
+      "nombre_origen": "081_DETAIL.AVI",
+      "firma_video": "c1-e6d7754f9856dd3445ac07a049e47ef723140a0894230d056893460e0b4bf75d",
+      "firma_legacy": "d256a4d4b07eda388e48a143d21f15666377d7a6523b97f497066de0cb82ece1",
+      "ruta_video": "C:\\Programas Base\\Resumen-1-Step\\1st - copia\\RT\\252581 RDW NOM RT\\VIDEOS\\081_DETAIL.AVI",
+      "tamano": 5301248,
+      "bbox_norm": [
+        0.131731,
+        0.458411,
+        0.983654,
+        0.80278
+      ],
+      "frame_confirmado": 10,
+      "referencia": ".aprendizaje/video_airbag_referencias/3dde46a365e397ba206f.jpg",
+      "ancho_origen": 960,
+      "alto_origen": 772,
+      "usuario": "dashboard",
+      "actualizado_en": "2026-10-13T15:26:09",
+      "historial_roi": [
+        {
+          "bbox_norm": [
+            0.122115,
+            0.346885,
+            0.960577,
+            0.671818
+          ],
+          "usuario": "dashboard",
+          "actualizado_en": "2026-10-06T14:15:41",
+          "frame_confirmado": 8,
+          "motivo": "reemplazada_por_nueva_roi"
+        }
+      ]
+    },
+    {
+      "id": "083284add866efc0c50a",
+      "tipo_camara": "FRONTAL",
+      "nombre_origen": "081_FRONTAL.AVI",
+      "firma_video": "c1-3384dbe03436400bfb34d3f3be94f6382a88c6b42c45e934c8b99e7e479922a9",
+      "firma_legacy": "bdd399eca38467b3ba83b6153aa376965cbaeffc5754e6b8d3c0af740698b390",
+      "ruta_video": "C:\\Programas Base\\Resumen-1-Step\\1st - copia\\RT\\252581 RDW NOM RT\\VIDEOS\\081_FRONTAL.AVI",
+      "tamano": 5705728,
+      "bbox_norm": [
+        0.412094,
+        0.425845,
+        0.646387,
+        0.479087
+      ],
+      "frame_confirmado": 10,
+      "referencia": ".aprendizaje/video_airbag_referencias/083284add866efc0c50a.jpg",
+      "ancho_origen": 960,
+      "alto_origen": 772,
+      "usuario": "dashboard",
+      "actualizado_en": "2026-10-20T16:03:36",
+      "historial_roi": [
+        {
+          "bbox_norm": [
+            0.3875,
+            0.338522,
+            0.666346,
+            0.434091
+          ],
+          "usuario": "dashboard",
+          "actualizado_en": "2026-10-06T14:16:19",
+          "frame_confirmado": 10,
+          "motivo": "reemplazada_por_nueva_roi"
+        }
+      ]
+    }
+  ],
+  "actualizado_en": "2026-10-20T16:03:36"
+}
